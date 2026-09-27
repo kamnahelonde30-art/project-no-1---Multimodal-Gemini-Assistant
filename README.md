@@ -133,21 +133,12 @@ This multimodal assistant is engineered to handle complex real-world workflows a
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 👨‍💻 About the Author
 
-**Love Laxman Gangboir** *Aspiring Full Stack Data Scientist | Exploring GenAI & Agentic AI*
-
-I am a dedicated student currently pursuing my journey in **Full Stack Data Science**, with a strong passion for exploring the latest frontiers of Artificial Intelligence. My current focus and learning revolve around **Generative AI**, **Multimodal Systems**, and **Agentic AI workflows** (building autonomous LLM agents that can reason and execute tasks). 
+**Kamna Helonde** *Aspiring Data analyst*
 
 I strongly believe in "learning by building"—transforming complex AI concepts and models into interactive, real-world applications like this assistant!
 
-* 🌐 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/love-gangboir-89384b327/?skipRedirect=true)
-* 🐙 **GitHub:** [Follow my projects on GitHub](https://github.com/LoveGangboir)
-* 📧 **Email:** lovegangboir1805@gmail.com
+* 🌐 **LinkedIn:** [Connect with me on LinkedIn](linkedin.com/in/kamna-helonde-63801743b)
+* 🐙 **GitHub:** [Follow my projects on GitHub](https://github.com/kamnahelonde30-art)
+* 📧 **Email:** kamnahelonde30@gmail.com
 
-## 🙏 Acknowledgments / Special Thanks
-
-I would like to express my sincere gratitude to **[omkar nallagoni sir]** for their invaluable guidance, continuous encouragement, and mentorship throughout the development of this project.
-
-* **Mentor:** Omkar nallagoni sir(https://www.linkedin.com/in/nallagoni-omkar-783271188/?skipRedirect=true)
-* **Role:** Project Guide & Mentor
----
 *If you found this project helpful or insightful, please consider giving this repository a ⭐ on GitHub!*
