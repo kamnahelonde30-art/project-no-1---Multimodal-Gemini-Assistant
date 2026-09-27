@@ -137,7 +137,7 @@ This multimodal assistant is engineered to handle complex real-world workflows a
 
 I strongly believe in "learning by building"—transforming complex AI concepts and models into interactive, real-world applications like this assistant!
 
-* 🌐 **LinkedIn:** [Connect with me on LinkedIn](linkedin.com/in/kamna-helonde-63801743b)
+* 🌐 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/kamna-helonde-63801743b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 * 🐙 **GitHub:** [Follow my projects on GitHub](https://github.com/kamnahelonde30-art)
 * 📧 **Email:** kamnahelonde30@gmail.com
 
